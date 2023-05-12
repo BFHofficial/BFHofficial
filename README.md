@@ -1,16 +1,19 @@
-### Hi there 👋
+# My Website
 
-<!--
-**BFHofficial/BFHofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my website!
 
-Here are some ideas to get you started:
+## Description
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is a basic website that includes some text and an image.
+
+## Preview
+
+![Image](image.jpg)
+
+## Usage
+
+To view the website, simply open the [website.html](website.html) file in your web browser.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
